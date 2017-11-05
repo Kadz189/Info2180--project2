@@ -18,10 +18,6 @@ var BLANKTOP= "300px";
 var BLANKLEFT= "300px";
 var BLOCKTOP, BLOCKLEFT;
 var moveCount = 0;
-var startTime, endTime;
-
-
-
 
 
 
@@ -112,4 +108,4 @@ var startTime, endTime;
                        }
 
     }
-};
+}
